@@ -10,18 +10,24 @@
 ## Диаграммы
 
 ### Контекстная диаграмма
-![Контекстная диаграмма](./images/structurizr-1-SystemContext-001.png)
+<img src="./images/structurizr-1-SystemContext-001.png" alt="Контекстная диаграмма" width="400"/>
 
 ### Диаграмма контейнеров
-![Диаграмма контейнеров](./images/structurizr-1-Container-001.png)
+<img src="./images/structurizr-1-Container-001.png" alt="Диаграмма контейнеров" width="500"/>
 
 ### Диаграмма развертывания
-![Диаграмма развертывания](./images/structurizr-1-Deployment-001.png)
+<img src="./images/structurizr-1-Deployment-001.png" alt="Архитектура развертывания" width="500"/>
 
 ### Динамические диаграммы
-![Динамическая диаграмма](./images/structurizr-1-UC01.png)
-![Динамическая диаграмма](./images/structurizr-1-UC02.png)
-![Динамическая диаграмма](./images/structurizr-1-UC03.png)
-![Динамическая диаграмма](./images/structurizr-1-UC04.png)
-![Динамическая диаграмма](./images/structurizr-1-UC05.png)
-![Динамическая диаграмма](./images/structurizr-1-UC06.png)
+
+<img src="./images/structurizr-1-UC01.png" alt="Динамическая диаграмма" width="400"/>
+
+<img src="./images/structurizr-1-UC02.png" alt="Динамическая диаграмма" width="400"/>
+
+<img src="./images/structurizr-1-UC03.png" alt="Динамическая диаграмма" width="400"/>
+
+<img src="./images/structurizr-1-UC04.png" alt="Динамическая диаграмма" width="400"/>
+
+<img src="./images/structurizr-1-UC05.png" alt="Динамическая диаграмма" width="400"/>
+
+<img src="./images/structurizr-1-UC06.png" alt="Динамическая диаграмма" width="400"/>

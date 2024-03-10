@@ -1,6 +1,6 @@
 # МАИ Архитектура высоконагруженных систем
 
-![](images/giphy.gif)
+<img src="./images/giphy.gif" alt="Архитектура контейнеров" width="300"/>
 
 ## Вариант и постановка задачи
 
@@ -29,4 +29,4 @@
 
 Полная архитектура: [link](./architecture/Readme.md)
 
-![Архитектура контейнеров](./architecture/images/structurizr-1-Container-001.png)
+<img src="./architecture/images/structurizr-1-Container-001.png" alt="Архитектура контейнеров" width="500"/>
