@@ -25,9 +25,3 @@
 <img src="./images/structurizr-1-UC02.png" alt="Динамическая диаграмма" width="400"/>
 
 <img src="./images/structurizr-1-UC03.png" alt="Динамическая диаграмма" width="400"/>
-
-<img src="./images/structurizr-1-UC04.png" alt="Динамическая диаграмма" width="400"/>
-
-<img src="./images/structurizr-1-UC05.png" alt="Динамическая диаграмма" width="400"/>
-
-<img src="./images/structurizr-1-UC06.png" alt="Динамическая диаграмма" width="400"/>
